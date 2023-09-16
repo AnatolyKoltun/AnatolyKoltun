@@ -1,3 +1,43 @@
+<style type="text/css">
+   .contacts{
+      display: flex;
+      justify-content:space-around;
+   }
+   h2 { 
+    text-align: center;
+   }
+   .contacts img {
+      width: 40px;
+   }
+   .contacts a {
+      color: white;
+      font-size: 20px;
+      background: black;
+      line-height: 100%;
+      width: 160px;
+   }
+   .link{
+      display: flex;
+      align-items:center;
+      height: 33px;
+   }
+   .text {
+      margin: auto;
+   }
+   .link:hover {
+      text-decoration: none;
+   }
+   .table {
+      margin-top: 500px;
+   }
+   .iksweb{
+	width: 100%;
+   }
+   td {
+      border: 1px solid black;
+      color: silver;
+   }
+  </style>
 ![mygif](https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966)
 <div>
 <h1>Currently you're on a developer's page</h1>
@@ -85,44 +125,3 @@
 	</tbody>
 </table>
 </div>
-<style type="text/css">
-   .contacts{
-      display: flex;
-      justify-content:space-around;
-   }
-   h2 { 
-    text-align: center;
-   }
-   .contacts img {
-      width: 40px;
-   }
-   .contacts a {
-      color: white;
-      font-size: 20px;
-      background: black;
-      line-height: 100%;
-      width: 160px;
-   }
-   .link{
-      display: flex;
-      align-items:center;
-      height: 33px;
-   }
-   .text {
-      margin: auto;
-   }
-   .link:hover {
-      text-decoration: none;
-   }
-   .table {
-      margin-top: 500px;
-   }
-   .iksweb{
-	width: 100%;
-   }
-   td {
-      border: 1px solid black;
-      color: silver;
-   }
-  </style>
-  
