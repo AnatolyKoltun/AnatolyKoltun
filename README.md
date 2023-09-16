@@ -3,12 +3,17 @@
 <h1>Currently you're on a developer's page</h1>
 <h2>Find me:</h2>
 <div class = 'contacts'>
+<p>                     </p>
 <a class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://camo.githubusercontent.com/37b34038e5aac2a9f4e3d3d12ebee4e368e9a015a56a239053dbc971297b3b28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c"/></a>
          </td>
 			<td>
+         <p>                     </p>
          <a class ='link' href="https://t.me/AnatolyKoltun"><img src="https://camo.githubusercontent.com/73306202b5d479eec5a440b2061c3c7ab537ef603522d0ec467ada03be98ffe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d"/></a>
 </div>
 </div>
+<p>         </p>
+<p>         </p>
+<p>         </p>
 <div class ='table'>
 <table class="iksweb">
 	<tbody>
