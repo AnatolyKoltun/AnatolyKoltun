@@ -11,9 +11,6 @@
          <a style = 'margin-left: 10px' class ='link' href="https://t.me/AnatolyKoltun"><img src="https://camo.githubusercontent.com/73306202b5d479eec5a440b2061c3c7ab537ef603522d0ec467ada03be98ffe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d"/></a>
 </div>
 </div>
-<p>         </p>
-<p>         </p>
-<p>         </p>
 <div class ='table'>
 <table class="iksweb">
 	<tbody>
