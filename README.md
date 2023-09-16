@@ -1,57 +1,20 @@
 ![mygif](https://camo.githubusercontent.com/b6a43f20f9fa31e8f42f3a4334a6351fc90801332bd2e772f76282b8e6729253/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f35392f64362f63643539643632366463383633393766653435303830653665396337303237642e676966)
-
-<!DOCTYPE HTML>
-<html>
- <head>
-  <meta charset="utf-8">
-  <style type="text/css">
-   .contacts {
-      display: flex;
-      justify-content:space-around;
-   }
-   h2 { 
-    text-align: center;
-   }
-   .contacts img {
-      width: 40px
-   }
-   .contacts a {
-      color: white;
-      font-size: 20px;
-      background: black;
-      line-height: 100%;
-      width: 160px
-   }
-   .link{
-      display: flex;
-      align-items:center;
-      height: 33px
-   }
-   .text {
-      margin: auto
-   }
-   .link:hover {
-      text-decoration: none
-   }
-   .table {
-      margin-top: 500px
-   }
-   .iksweb{
-	width: 100%;
-   }
-   td {
-      border: 1px solid black;
-      color: silver;
-   }
-  </style>
- </head> 
- <body>
- <div>
+<div>
 <h1>Currently you're on a developer's page</h1>
 <h2>Find me:</h2>
-<div style = 'display: flex; justify-content:space-around;' class = 'contacts'>
-<a style = 'color: white; font-size: 20px; background: black; line-height: 100%; width: 160px' class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"/><div class = 'text'>Gmail</div></a>
-<a style = 'color: white; font-size: 20px; background: black; line-height: 100%; width: 160px' class ='link' href="https://t.me/AnatolyKoltun"><img src="https://3dnews.ru/assets/external/illustrations/2022/02/04/1059551/telegram-gdd4384fe0_1280.png"/><div class = 'text'>Telegram</div</a>
+<div class = 'contacts'>
+<table class="iksweb">
+	<tbody>
+		<tr>
+			<td>
+         <a class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://camo.githubusercontent.com/37b34038e5aac2a9f4e3d3d12ebee4e368e9a015a56a239053dbc971297b3b28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c"/></a>
+         </td>
+			<td>
+         <a class ='link' href="https://t.me/AnatolyKoltun"><img src="https://camo.githubusercontent.com/73306202b5d479eec5a440b2061c3c7ab537ef603522d0ec467ada03be98ffe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d"/></a>
+         </td>
+		</tr>
+	</tbody>
+</table>
 </div>
 </div>
 <div class ='table'>
@@ -132,5 +95,3 @@
 	</tbody>
 </table>
 </div>
- </body>
-</html>
