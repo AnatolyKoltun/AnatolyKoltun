@@ -94,28 +94,28 @@
     text-align: center;
    }
    .contacts img {
-      width: 40px
+      width: 40px;
    }
    .contacts a {
       color: white;
       font-size: 20px;
       background: black;
       line-height: 100%;
-      width: 160px
+      width: 160px;
    }
    .link{
       display: flex;
       align-items:center;
-      height: 33px
+      height: 33px;
    }
    .text {
-      margin: auto
+      margin: auto;
    }
    .link:hover {
-      text-decoration: none
+      text-decoration: none;
    }
    .table {
-      margin-top: 500px
+      margin-top: 500px;
    }
    .iksweb{
 	width: 100%;
