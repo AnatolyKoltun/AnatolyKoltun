@@ -2,7 +2,7 @@
 <div>
 <h1>Currently you're on a developer's page</h1>
 <h2>Find me:</h2>
-<div class = 'contacts'>
+<div style="width: 100%; display: flex; justify-content: center" class = 'contacts'>
 <a class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://camo.githubusercontent.com/37b34038e5aac2a9f4e3d3d12ebee4e368e9a015a56a239053dbc971297b3b28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c"/></a>
          </td>
 			<td>
