@@ -49,9 +49,9 @@
  <div>
 <h1>Currently you're on a developer's page</h1>
 <h2>Find me:</h2>
-<div class = 'contacts'>
-<a class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"/><div class = 'text'>Gmail</div></a>
-<a class ='link' href="https://t.me/AnatolyKoltun"><img src="https://3dnews.ru/assets/external/illustrations/2022/02/04/1059551/telegram-gdd4384fe0_1280.png"/><div class = 'text'>Telegram</div</a>
+<div style = 'display: flex; justify-content:space-around;' class = 'contacts'>
+<a style = 'color: white; font-size: 20px; background: black; line-height: 100%; width: 160px' class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"/><div class = 'text'>Gmail</div></a>
+<a style = 'color: white; font-size: 20px; background: black; line-height: 100%; width: 160px' class ='link' href="https://t.me/AnatolyKoltun"><img src="https://3dnews.ru/assets/external/illustrations/2022/02/04/1059551/telegram-gdd4384fe0_1280.png"/><div class = 'text'>Telegram</div</a>
 </div>
 </div>
 <div class ='table'>
