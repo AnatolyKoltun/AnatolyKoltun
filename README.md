@@ -31,13 +31,13 @@
 		</tr>
 		<tr>
 			<td>
-         <img src = 'https://camo.githubusercontent.com/4564aa5a220b5ac882e4872ae4f5c82bcfb02d495d29c2952b214ef1c5189f96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374'/>
+         <img src = 'https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react'/>
          </td>
 			<td>services</td>
 			<td>
-         <img src = 'https://camo.githubusercontent.com/3ea221eddc49d9089d7c7633de319b249df33d21441f44ebf878cbd2db6564bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572'/>
-         <img src = 'https://camo.githubusercontent.com/deceecdfeeeb3aad06d0315e5172eee4aad6298e01197b400dc76b7c1aa36bd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d373734394244'/>
-         <img src = 'https://camo.githubusercontent.com/37e8e50181c8957759cb4948d0c8380bbb4a811ebd89c11b303638cd79b90380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526561637451756572792d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163747175657279'/>
+         <img src = 'https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router'/>
+         <img src = 'https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD'/>
+         <img src = 'https://img.shields.io/badge/ReactQuery-20232A?style=for-the-badge&logo=reactquery'/>
          </td>
 		</tr>
 		<tr>
