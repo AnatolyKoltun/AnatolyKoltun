@@ -2,7 +2,7 @@
 <div>
 <h1>Currently you're on a developer's page</h1>
 <h2>Find me:</h2>
-<div style = 'display: flex; justify-content:space-around' class = 'contacts'>
+<div display="flex" justify-content="space-around" class = 'contacts'>
 <a class = 'link' href="mailto:koltun.anatoly@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>
          <a class ='link' href="https://t.me/AnatolyKoltun"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>
 </div>
