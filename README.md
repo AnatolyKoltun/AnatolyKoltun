@@ -23,10 +23,10 @@
 			<td>methodology</td>
 			<td>
          <img src = 'https://img.shields.io/badge/mvc-20232A?style=for-the-badge'/>
-         <img src = 'https://camo.githubusercontent.com/008778ded13a0538f78500e25c786f94b1d9b998bd83dd154c76f7b4c28e8206/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f6d2d3230323332413f7374796c653d666f722d7468652d6261646765'/>
-         <img src = 'https://camo.githubusercontent.com/0822e57e173f373b12c028b7dc4dbdf707ba13c50bb58b0883ebf6c5376b0513/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616a61782d3230323332413f7374796c653d666f722d7468652d6261646765'/>
-         <img src = 'https://camo.githubusercontent.com/d50d1234104dd7508e91eacdbf763a85a4c1e95ae487f4d42d49850f292f0aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736f6c69642d3230323332413f7374796c653d666f722d7468652d6261646765'/>
-         <img src = 'https://camo.githubusercontent.com/1721d249f7afa91f62fd78a16b7fb8d8b1420075b5800c88847fba3224f1218e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f6f702d3230323332413f7374796c653d666f722d7468652d6261646765'/>
+         <img src = 'https://img.shields.io/badge/dom-20232A?style=for-the-badge'/>
+         <img src = 'https://img.shields.io/badge/ajax-20232A?style=for-the-badge'/>
+         <img src = 'https://img.shields.io/badge/solid-20232A?style=for-the-badge'/>
+         <img src = 'https://img.shields.io/badge/oop-20232A?style=for-the-badge'/>
          </td>
 		</tr>
 		<tr>
